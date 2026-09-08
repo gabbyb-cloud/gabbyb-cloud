@@ -6,7 +6,7 @@ I build systems that stay understandable and recoverable when requests fail, wor
 
 ## Featured work
 
-### Order Fulfillment Service
+### [Order Fulfillment Service](https://github.com/gabbyb-cloud/order-fulfillment-temporal)
 
 A durable order-processing backend built with Temporal, FastAPI, PostgreSQL, Docker, and Python.
 
@@ -21,7 +21,7 @@ Demonstrates:
 - Automated tests and GitHub Actions CI
 - Reproducible local benchmarks
 
-### Distributed Systems Performance Lab
+### [Distributed Systems Performance Lab](https://github.com/gabbyb-cloud/distributed-systems-performance-lab)
 
 A collection of experiments focused on backend performance, reliability, and system behavior under controlled workload scenarios.
 
