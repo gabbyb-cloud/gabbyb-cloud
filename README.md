@@ -1,58 +1,67 @@
 # Gabby B
 
-Software engineer focused on reliable backend systems, distributed workflows, and production-minded application infrastructure.
+Software engineer focused on backend systems, platform engineering, and reliability.
 
-I build systems that stay understandable and recoverable when requests fail, workers restart, dependencies become unavailable, or completed work must be compensated—not just when everything goes right.
+I build backend services and reliability-focused infrastructure with an emphasis on failure handling, observability, recovery, and measurable system behavior. My projects explore how systems behave when dependencies fail, processes restart, workloads degrade, and services need to recover — not just when everything works normally.
 
-## Featured work
+**Currently seeking:** Backend Engineer, Platform Engineer, and Site Reliability Engineer opportunities.
+
+## Featured Work
+
+### [SRE Reliability Lab](https://github.com/gabbyb-cloud/sre-reliability-lab)
+
+A Kubernetes-based reliability lab built around a containerized FastAPI service and designed to exercise the full monitoring, alerting, failure, and recovery lifecycle.
+
+**Demonstrates:**
+- Kubernetes deployment with kind and Helm
+- Liveness and readiness probes
+- Prometheus metrics and ServiceMonitor discovery
+- Grafana visualization of a 99% availability SLO
+- `HighErrorRate` alerting with Prometheus
+- Controlled HTTP 500 failure injection
+- Alert lifecycle from pending → firing → resolved
+- Service recovery verification
+- Operational runbook and blameless postmortem
+- Terraform adoption and management of the Kubernetes namespace
 
 ### [Order Fulfillment Service](https://github.com/gabbyb-cloud/order-fulfillment-temporal)
 
 A durable order-processing backend built with Temporal, FastAPI, PostgreSQL, Docker, and Python.
 
-Demonstrates:
-
-- Durable workflow execution
+**Demonstrates:**
+- Durable workflow orchestration
 - Retryable and non-retryable failure handling
 - Saga compensation
 - Cancellation checkpoints
 - Worker crash recovery
 - Authenticated API boundaries
-- Automated tests and GitHub Actions CI
-- Reproducible local benchmarks
+- Automated testing and GitHub Actions CI
 
 ### [Distributed Systems Performance Lab](https://github.com/gabbyb-cloud/distributed-systems-performance-lab)
 
-A collection of experiments focused on backend performance, reliability, and system behavior under controlled workload scenarios.
+A backend performance lab focused on measuring application behavior under controlled workload and dependency-failure conditions.
 
-Explores:
-
-- Caching behavior
+**Explores:**
 - Database connection pooling
-- Concurrency
-- Failure fallback
-- Request performance
-- Observability and measurement
+- Redis caching and fallback behavior
+- Concurrency and request throughput
+- Average, p95, and p99 latency
+- Dependency failure behavior
+- Observability and performance measurement
 
-## Engineering focus
+## Engineering Focus
 
-- Backend and API development
-- Distributed systems
-- Site reliability and failure recovery
-- Workflow orchestration
-- PostgreSQL and data-intensive services
-- Docker and CI/CD
-- Testing and observability
+`Backend Systems` · `Platform Engineering` · `Site Reliability Engineering` · `Distributed Systems` · `Observability` · `Infrastructure as Code`
 
 ## Technology
 
-`Python` · `TypeScript` · `FastAPI` · `Next.js` · `PostgreSQL` · `Docker` · `Temporal` · `GitHub Actions`
+`Python` · `TypeScript` · `FastAPI` · `PostgreSQL` · `Redis` · `Temporal` · `Docker` · `Kubernetes` · `Helm` · `Terraform` · `Prometheus` · `Grafana` · `GitHub Actions` · `Linux`
 
-## What I value
+## Engineering Principles
 
-- Clear system boundaries
-- Explicit failure handling
-- Reproducible development environments
-- Tests that verify behavior, not just coverage
-- Honest performance measurements
-- Documentation that explains trade-offs, not just usage
+- Design for failure, not only the happy path
+- Make system behavior observable and measurable
+- Automate repeatable infrastructure and deployment work
+- Test recovery paths as well as normal behavior
+- Keep operational documentation close to the code
+- Prefer measured results over vague performance claims
