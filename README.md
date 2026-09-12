@@ -1,67 +1,54 @@
 # Gabby B
 
-Software engineer focused on backend systems, platform engineering, and reliability.
+**Founder | Software Engineer | Backend, Platform & Reliability**
 
-I build backend services and reliability-focused infrastructure with an emphasis on failure handling, observability, recovery, and measurable system behavior. My projects explore how systems behave when dependencies fail, processes restart, workloads degrade, and services need to recover — not just when everything works normally.
+I build backend and infrastructure-focused systems with an emphasis on reliability, failure recovery, observability, and operational clarity.
 
-**Currently seeking:** Backend Engineer, Platform Engineer, and Site Reliability Engineer opportunities.
+Open to opportunities in **Backend Engineering, Site Reliability Engineering, Platform Engineering, and Cloud Infrastructure**.
 
-## Featured Work
+## Selected Work
 
 ### [SRE Reliability Lab](https://github.com/gabbyb-cloud/sre-reliability-lab)
 
-A Kubernetes-based reliability lab built around a containerized FastAPI service and designed to exercise the full monitoring, alerting, failure, and recovery lifecycle.
+Local reliability engineering environment built around a containerized FastAPI service running on Kubernetes, with infrastructure automation, observability, SLOs, alerting, and controlled failure recovery.
 
-**Demonstrates:**
-- Kubernetes deployment with kind and Helm
-- Liveness and readiness probes
-- Prometheus metrics and ServiceMonitor discovery
-- Grafana visualization of a 99% availability SLO
-- `HighErrorRate` alerting with Prometheus
-- Controlled HTTP 500 failure injection
-- Alert lifecycle from pending → firing → resolved
-- Service recovery verification
-- Operational runbook and blameless postmortem
-- Terraform adoption and management of the Kubernetes namespace
+`Kubernetes` · `Helm` · `Terraform` · `Prometheus` · `Grafana` · `SLOs` · `Incident Response`
 
 ### [Order Fulfillment Service](https://github.com/gabbyb-cloud/order-fulfillment-temporal)
 
-A durable order-processing backend built with Temporal, FastAPI, PostgreSQL, Docker, and Python.
+Durable backend workflow system designed to handle retries, failures, and long-running order processing without losing state.
 
-**Demonstrates:**
-- Durable workflow orchestration
-- Retryable and non-retryable failure handling
-- Saga compensation
-- Cancellation checkpoints
-- Worker crash recovery
-- Authenticated API boundaries
-- Automated testing and GitHub Actions CI
+`Python` · `FastAPI` · `Temporal` · `PostgreSQL` · `Docker` · `Idempotency` · `CI/CD`
+
+### [Linux Operations Lab](https://github.com/gabbyb-cloud/linux-operations-lab)
+
+Hands-on Linux operations lab covering service management, permissions, networking, troubleshooting, system health, and Bash automation.
+
+`Linux` · `Bash` · `systemd` · `journalctl` · `TCP/IP` · `DNS` · `Troubleshooting`
 
 ### [Distributed Systems Performance Lab](https://github.com/gabbyb-cloud/distributed-systems-performance-lab)
 
-A backend performance lab focused on measuring application behavior under controlled workload and dependency-failure conditions.
+Performance-focused backend lab for studying latency, throughput, concurrency, connection pooling, caching, and dependency failure behavior.
 
-**Explores:**
-- Database connection pooling
-- Redis caching and fallback behavior
-- Concurrency and request throughput
-- Average, p95, and p99 latency
-- Dependency failure behavior
-- Observability and performance measurement
+`Python` · `PostgreSQL` · `Redis` · `Concurrency` · `Performance Testing` · `Observability`
 
 ## Engineering Focus
 
-`Backend Systems` · `Platform Engineering` · `Site Reliability Engineering` · `Distributed Systems` · `Observability` · `Infrastructure as Code`
+**Backend Systems** · **Platform Engineering** · **Site Reliability Engineering** · **Distributed Systems** · **Cloud Infrastructure**
 
-## Technology
+## Technical Stack
 
-`Python` · `TypeScript` · `FastAPI` · `PostgreSQL` · `Redis` · `Temporal` · `Docker` · `Kubernetes` · `Helm` · `Terraform` · `Prometheus` · `Grafana` · `GitHub Actions` · `Linux`
+| Area | Technologies |
+| --- | --- |
+| Languages | Python, TypeScript, Bash |
+| Backend | FastAPI, Temporal |
+| Data | PostgreSQL, Redis |
+| Infrastructure | Linux, Docker, Kubernetes, Helm, Terraform |
+| Observability | Prometheus, Grafana |
+| Delivery | Git, GitHub Actions, CI/CD |
 
-## Engineering Principles
+## Currently
 
-- Design for failure, not only the happy path
-- Make system behavior observable and measurable
-- Automate repeatable infrastructure and deployment work
-- Test recovery paths as well as normal behavior
-- Keep operational documentation close to the code
-- Prefer measured results over vague performance claims
+- Studying for the **AWS Certified Solutions Architect – Associate**
+- Building practical experience in Linux, cloud infrastructure, and reliability engineering
+- Applying for backend, SRE, platform, and infrastructure-focused engineering roles
