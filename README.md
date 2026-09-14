@@ -1,102 +1,99 @@
 <div align="center">
 
-<h1>Gabby B</h1>
+### Gabby B.
+
+**Software Engineer · Backend · Platform · Site Reliability**
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1100&color=58A6FF&center=true&vCenter=true&width=750&lines=Software+Engineer;Backend+%7C+Platform+%7C+Reliability;Building+Reliable+Systems;AWS+Solutions+Architect+in+Progress"
-  alt="Typing SVG"
+  src="https://img.shields.io/badge/OPEN_TO_WORK-Backend%20·%20Platform%20·%20SRE-6E8B74?style=flat-square&labelColor=111827"
+  alt="Open to work"
 />
-
-<br>
-
-<strong>Founder | Software Engineer | Backend, Platform & Reliability</strong>
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=python,ts,bash,linux,docker,kubernetes,terraform,postgres,redis,git,github,aws" alt="Technology stack" />
+<img
+  src="https://img.shields.io/badge/ARIZONA-Remote%20·%20Select%20Relocation-334155?style=flat-square&labelColor=111827"
+  alt="Arizona — Remote and select relocation"
+/>
+<img
+  src="https://img.shields.io/badge/FOUNDER-Building%20Privately-334155?style=flat-square&labelColor=111827"
+  alt="Founder building privately"
+/>
 
 <br><br>
 
 <a href="https://gabbyb-cloud.github.io/">Portfolio</a>
-&nbsp;•&nbsp;
-<a href="https://github.com/gabbyb-cloud">GitHub</a>
-&nbsp;•&nbsp;
-<a href="https://www.credly.com/users/gabriell-bedoy">Credly</a>
-&nbsp;•&nbsp;
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://www.credly.com/users/gabriell-bedoy">Credentials</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
 <a href="https://tryhackme.com/p/gabbybcloud">TryHackMe</a>
+
+<br><br>
+
+<img
+  src="https://skillicons.dev/icons?i=python,linux,docker,kubernetes,terraform,postgres,aws,githubactions&theme=dark"
+  alt="Core engineering stack"
+/>
 
 </div>
 
 ---
 
+## Profile
+
 I build **backend and infrastructure-focused systems** with an emphasis on reliability, failure recovery, observability, and operational clarity.
 
-Currently pursuing opportunities in **Backend Engineering, Site Reliability Engineering, Platform Engineering, and Cloud Infrastructure**.
+My work spans application code through infrastructure: **backend services, Linux, containers, Kubernetes, infrastructure as code, databases, monitoring, and failure handling**.
 
-## Selected Work
-
-### [SRE Reliability Lab](https://github.com/gabbyb-cloud/sre-reliability-lab)
-
-Local SRE and platform engineering environment built around a containerized FastAPI service running on Kubernetes, with infrastructure automation, observability, SLOs, alerting, and controlled failure recovery.
-
-`Kubernetes` · `Helm` · `Terraform` · `Prometheus` · `Grafana` · `SLOs` · `Alerting` · `Incident Response`
-
-### [Order Fulfillment Service](https://github.com/gabbyb-cloud/order-fulfillment-temporal)
-
-Durable backend workflow system designed to handle retries, failures, and long-running order processing without losing state.
-
-`Python` · `FastAPI` · `Temporal` · `PostgreSQL` · `Docker` · `Idempotency` · `CI/CD`
-
-### [Linux Operations Lab](https://github.com/gabbyb-cloud/linux-operations-lab)
-
-Hands-on Linux operations lab covering practical administration, service management, networking, troubleshooting, system health, and Bash automation.
-
-`Linux` · `Bash` · `systemd` · `journalctl` · `TCP/IP` · `DNS` · `Permissions` · `Troubleshooting`
-
-### [Distributed Systems Performance Lab](https://github.com/gabbyb-cloud/distributed-systems-performance-lab)
-
-Performance-focused backend lab for studying latency, throughput, concurrency, connection pooling, caching, observability, and dependency-failure behavior.
-
-`Python` · `PostgreSQL` · `Redis` · `Concurrency` · `Performance Testing` · `Failure Analysis` · `Observability`
+Currently pursuing full-time opportunities in **Backend Engineering, Site Reliability Engineering, Platform Engineering, and Cloud Infrastructure**.
 
 ---
 
-## Engineering Focus
+## Selected Engineering
 
-`Backend Systems` · `Platform Engineering` · `Site Reliability Engineering` · `Distributed Systems` · `Cloud Infrastructure`
+| Project | What it demonstrates |
+|:--|:--|
+| **[SRE Reliability Lab](https://github.com/gabbyb-cloud/sre-reliability-lab)** | Kubernetes operations, Helm packaging, Terraform, SLOs, Prometheus/Grafana observability, alerting, controlled failure, and recovery |
+| **[Order Fulfillment Service](https://github.com/gabbyb-cloud/order-fulfillment-temporal)** | Durable workflows, retries, idempotency, compensation, state persistence, backend APIs, and failure recovery |
+| **[Linux Operations Lab](https://github.com/gabbyb-cloud/linux-operations-lab)** | Linux administration, services, networking, permissions, logs, troubleshooting, and Bash automation |
+| **[Distributed Systems Performance Lab](https://github.com/gabbyb-cloud/distributed-systems-performance-lab)** | Latency, throughput, concurrency, PostgreSQL pooling, Redis caching, observability, and dependency-failure analysis |
 
-## Technical Stack
+---
 
-| Area | Technologies |
-| --- | --- |
-| **Languages** | Python · TypeScript · Bash |
-| **Backend** | FastAPI · Temporal |
-| **Data** | PostgreSQL · Redis |
-| **Infrastructure** | Linux · Docker · Kubernetes · Helm · Terraform |
-| **Observability** | Prometheus · Grafana |
-| **Delivery** | Git · GitHub Actions · CI/CD |
-| **Cloud** | AWS Fundamentals · Solutions Architect Study |
+## Engineering Capabilities
 
-## Current Focus
+**Backend Systems**  
+`Python` · `TypeScript` · `FastAPI` · `Temporal` · `PostgreSQL` · `Redis`
 
-- Preparing for the **AWS Certified Solutions Architect – Associate**
-- Strengthening Linux administration and troubleshooting skills
-- Building practical SRE and Platform Engineering experience
-- Deepening reliability, observability, and distributed-systems knowledge
-- Pursuing backend, SRE, platform, and infrastructure-focused engineering opportunities
+**Platform & Reliability**  
+`Linux` · `Docker` · `Kubernetes` · `Helm` · `Terraform` · `Prometheus` · `Grafana`
 
-## Engineering Approach
+**Cloud & Delivery**  
+`AWS` · `Git` · `GitHub Actions` · `CI/CD` · `Infrastructure as Code`
 
-- Design for failure and make recovery observable
-- Measure system behavior before optimizing it
-- Automate repeatable operational work
-- Prefer clear, maintainable systems over unnecessary complexity
-- Treat reliability as part of the design, not an afterthought
+---
+
+## Founder & Software Engineer
+
+Alongside my engineering work, I’m independently building a **private software product in active development**.
+
+My work includes **backend architecture, PostgreSQL, authentication and authorization, multi-tenant systems, workflow design, testing, security, reliability, and product engineering**.
+
+Product and implementation details remain private during development.
 
 ---
 
 <div align="center">
 
-<strong>Reliable systems. Clear operations. Measurable behavior.</strong>
+<img
+  src="https://raw.githubusercontent.com/gabbyb-cloud/gabbyb-cloud/output/snake.svg"
+  width="88%"
+  alt="GitHub contribution animation"
+/>
+
+<br><br>
+
+<sub>AWS Certified Solutions Architect – Associate · In Progress</sub>
+
+<br><br>
+
+**Reliable systems. Clear operations. Measurable behavior.**
 
 </div>
