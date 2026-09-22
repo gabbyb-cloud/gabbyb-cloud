@@ -5,10 +5,6 @@
 **Software Engineer · Backend · Platform · Site Reliability**
 
 <img
-  src="https://img.shields.io/badge/OPEN_TO_WORK-Backend%20·%20Platform%20·%20SRE-6E8B74?style=flat-square&labelColor=111827"
-  alt="Open to work"
-/>
-<img
   src="https://img.shields.io/badge/ARIZONA-Remote%20·%20Select%20Relocation-334155?style=flat-square&labelColor=111827"
   alt="Arizona — Remote and select relocation"
 />
@@ -41,8 +37,6 @@
 I build **backend and infrastructure-focused systems** with an emphasis on reliability, failure recovery, observability, and operational clarity.
 
 My work spans application code through infrastructure: **backend services, Linux, containers, Kubernetes, infrastructure as code, databases, monitoring, and failure handling**.
-
-Currently pursuing full-time opportunities in **Backend Engineering, Site Reliability Engineering, Platform Engineering, and Cloud Infrastructure**.
 
 ---
 
