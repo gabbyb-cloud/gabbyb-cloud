@@ -2,7 +2,7 @@
 
 ### Gabby B.
 
-**Software Engineer · Backend · Platform · Site Reliability**
+**Software Engineer · Backend · Platform · Reliability**
 
 <img
   src="https://img.shields.io/badge/ENGINEERING-Backend%20·%20Platform%20·%20Reliability-334155?style=flat-square&labelColor=111827"
