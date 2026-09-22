@@ -90,10 +90,6 @@ Product and implementation details remain private during development.
 
 <br><br>
 
-<sub>AWS Certified Solutions Architect – Associate · In Progress</sub>
-
-<br><br>
-
 **Reliable systems. Clear operations. Measurable behavior.**
 
 </div>
