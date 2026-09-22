@@ -5,8 +5,8 @@
 **Software Engineer · Backend · Platform · Site Reliability**
 
 <img
-  src="https://img.shields.io/badge/ARIZONA-Remote%20·%20Select%20Relocation-334155?style=flat-square&labelColor=111827"
-  alt="Arizona — Remote and select relocation"
+  src="https://img.shields.io/badge/ENGINEERING-Backend%20·%20Platform%20·%20Reliability-334155?style=flat-square&labelColor=111827"
+  alt="Backend, platform, and reliability engineering"
 />
 <img
   src="https://img.shields.io/badge/FOUNDER-Building%20Privately-334155?style=flat-square&labelColor=111827"
