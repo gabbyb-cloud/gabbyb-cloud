@@ -1,19 +1,12 @@
 <div align="center">
 
-### Gabby B.
+# Gabby B.
 
-**Software Engineer · Backend · Platform · Reliability**
+### Software Engineer · Site Reliability · Platform · Backend Systems
 
-<img
-  src="https://img.shields.io/badge/ENGINEERING-Backend%20·%20Platform%20·%20Reliability-334155?style=flat-square&labelColor=111827"
-  alt="Backend, platform, and reliability engineering"
-/>
-<img
-  src="https://img.shields.io/badge/FOUNDER-Building%20Privately-334155?style=flat-square&labelColor=111827"
-  alt="Founder building privately"
-/>
+I build and operate systems with a focus on **reliability, observability, failure recovery, and operational clarity**.
 
-<br><br>
+<br>
 
 <a href="https://gabbyb-cloud.github.io/">Portfolio</a>
 &nbsp;&nbsp;·&nbsp;&nbsp;
@@ -32,43 +25,66 @@
 
 ---
 
-## Profile
+## Engineering Focus
 
-I build **backend and infrastructure-focused systems** with an emphasis on reliability, failure recovery, observability, and operational clarity.
+I’m a software engineer focused on **Site Reliability Engineering, Platform Engineering, cloud infrastructure, and reliability-focused backend systems**.
 
-My work spans application code through infrastructure: **backend services, Linux, containers, Kubernetes, infrastructure as code, databases, monitoring, and failure handling**.
+My projects are designed around the parts of software that matter after deployment: operating services, detecting failures, understanding system behavior, recovering safely, and verifying that recovery actually worked.
+
+**Reliability mindset:**
+
+```text
+Observe → Diagnose → Recover → Verify → Automate
+```
 
 ---
 
-## Selected Engineering
+## Featured Engineering Projects
 
-| Project | What it demonstrates |
+| Project | Engineering evidence |
 |:--|:--|
-| **[SRE Reliability Lab](https://github.com/gabbyb-cloud/sre-reliability-lab)** | Kubernetes operations, Helm packaging, Terraform, SLOs, Prometheus/Grafana observability, alerting, controlled failure, and recovery |
-| **[Order Fulfillment Service](https://github.com/gabbyb-cloud/order-fulfillment-temporal)** | Durable workflows, retries, idempotency, compensation, state persistence, backend APIs, and failure recovery |
-| **[Linux Operations Lab](https://github.com/gabbyb-cloud/linux-operations-lab)** | Linux administration, services, networking, permissions, logs, troubleshooting, and Bash automation |
-| **[Distributed Systems Performance Lab](https://github.com/gabbyb-cloud/distributed-systems-performance-lab)** | Latency, throughput, concurrency, PostgreSQL pooling, Redis caching, observability, and dependency-failure analysis |
+| **[SRE Reliability Lab](https://github.com/gabbyb-cloud/sre-reliability-lab)** | Kubernetes operations, Helm, Terraform, Prometheus/Grafana, a 99% availability SLO, alerting, controlled failure injection, recovery verification, runbooks, and incident documentation |
+| **[Linux Operations Lab](https://github.com/gabbyb-cloud/linux-operations-lab)** | Linux troubleshooting, `systemd`, `journalctl`, processes, networking, permissions, host-health inspection, controlled service recovery, and Bash automation |
+| **[Order Fulfillment Service](https://github.com/gabbyb-cloud/order-fulfillment-temporal)** | Durable Temporal workflows, retries, business-vs-infrastructure failure handling, compensation, state persistence, authenticated APIs, testing, and crash recovery |
+| **[Distributed Systems Performance Lab](https://github.com/gabbyb-cloud/distributed-systems-performance-lab)** | Latency and throughput analysis, PostgreSQL connection pooling, Redis caching and fallback, concurrency testing, application metrics, and dependency-failure behavior |
 
 ---
 
-## Engineering Capabilities
+## What I Practice
 
-**Backend Systems**  
-`Python` · `TypeScript` · `FastAPI` · `Temporal` · `PostgreSQL` · `Redis`
+**Reliability & Operations**  
+`Linux` · `Kubernetes` · `Helm` · `Prometheus` · `Grafana` · `SLOs` · `Alerting` · `Runbooks` · `Incident Analysis`
 
-**Platform & Reliability**  
-`Linux` · `Docker` · `Kubernetes` · `Helm` · `Terraform` · `Prometheus` · `Grafana`
+**Backend & Distributed Systems**  
+`Python` · `TypeScript` · `FastAPI` · `Temporal` · `PostgreSQL` · `Redis` · `APIs` · `Failure Recovery`
 
-**Cloud & Delivery**  
-`AWS` · `Git` · `GitHub Actions` · `CI/CD` · `Infrastructure as Code`
+**Infrastructure & Delivery**  
+`Docker` · `Terraform` · `AWS` · `Git` · `GitHub Actions` · `CI/CD` · `Infrastructure as Code`
 
 ---
 
-## Founder & Software Engineer
+## Reliability Work in the Repositories
 
-Alongside my engineering work, I’m independently building a **private software product in active development**.
+Across these projects I practice more than deploying applications. I deliberately create and investigate failure conditions so I can understand how systems behave when something goes wrong.
 
-My work includes **backend architecture, PostgreSQL, authentication and authorization, multi-tenant systems, workflow design, testing, security, reliability, and product engineering**.
+Examples include:
+
+- Injecting HTTP 500 failures and observing Prometheus alerts transition through their lifecycle
+- Recovering Linux services and verifying process, port, and HTTP behavior afterward
+- Testing durable workflow recovery across worker restarts
+- Measuring latency, throughput, p95/p99 behavior, connection pooling, and cache fallback
+- Writing operational runbooks and blameless incident documentation
+- Automating validation through GitHub Actions
+
+The goal is to build the habit of treating **detection, diagnosis, recovery, and verification** as part of engineering—not as afterthoughts.
+
+---
+
+## Independent Product Engineering
+
+Alongside my reliability and infrastructure work, I independently build a **private B2B software product**.
+
+That work includes backend architecture, PostgreSQL, authentication and authorization, multi-tenant systems, workflow design, testing, security, and reliability engineering.
 
 Product and implementation details remain private during development.
 
