@@ -2,9 +2,9 @@
 
 # Gabby B.
 
-### Software Engineer · Site Reliability · Platform · Backend Systems
+### Software Engineer · Cloud · Infrastructure · Backend · Automation
 
-I build and operate systems with a focus on **reliability, observability, failure recovery, and operational clarity**.
+I like building practical systems, understanding how they behave when something goes wrong, and making them easier to run, troubleshoot, and improve.
 
 <br>
 
@@ -25,13 +25,13 @@ I build and operate systems with a focus on **reliability, observability, failur
 
 ---
 
-## Engineering Focus
+## About Me
 
-I’m a software engineer focused on **Site Reliability Engineering, Platform Engineering, cloud infrastructure, and reliability-focused backend systems**.
+I’m a software engineer with a strong interest in cloud infrastructure, backend systems, platform engineering, automation, security, and reliability.
 
-My projects are designed around the parts of software that matter after deployment: operating services, detecting failures, understanding system behavior, recovering safely, and verifying that recovery actually worked.
+A lot of my work focuses on what happens after software is built: deploying services, observing system behavior, troubleshooting failures, recovering safely, and checking that things are actually healthy again afterward.
 
-**Reliability mindset:**
+I enjoy the parts of technology where software, infrastructure, and operations overlap.
 
 ```text
 Observe → Diagnose → Recover → Verify → Automate
@@ -39,54 +39,55 @@ Observe → Diagnose → Recover → Verify → Automate
 
 ---
 
-## Featured Engineering Projects
+## Featured Projects
 
-| Project | Engineering evidence |
+| Project | What I worked on |
 |:--|:--|
-| **[SRE Reliability Lab](https://github.com/gabbyb-cloud/sre-reliability-lab)** | Kubernetes operations, Helm, Terraform, Prometheus/Grafana, a 99% availability SLO, alerting, controlled failure injection, recovery verification, runbooks, and incident documentation |
-| **[Linux Operations Lab](https://github.com/gabbyb-cloud/linux-operations-lab)** | Linux troubleshooting, `systemd`, `journalctl`, processes, networking, permissions, host-health inspection, controlled service recovery, and Bash automation |
-| **[Order Fulfillment Service](https://github.com/gabbyb-cloud/order-fulfillment-temporal)** | Durable Temporal workflows, retries, business-vs-infrastructure failure handling, compensation, state persistence, authenticated APIs, testing, and crash recovery |
-| **[Distributed Systems Performance Lab](https://github.com/gabbyb-cloud/distributed-systems-performance-lab)** | Latency and throughput analysis, PostgreSQL connection pooling, Redis caching and fallback, concurrency testing, application metrics, and dependency-failure behavior |
+| **[SRE Reliability Lab](https://github.com/gabbyb-cloud/sre-reliability-lab)** | Kubernetes operations, Helm, Terraform, Prometheus/Grafana, SLOs, alerting, controlled failure testing, recovery verification, runbooks, and incident documentation |
+| **[Linux Operations Lab](https://github.com/gabbyb-cloud/linux-operations-lab)** | Linux troubleshooting, `systemd`, `journalctl`, processes, networking, permissions, service recovery, and Bash automation |
+| **[Order Fulfillment Service](https://github.com/gabbyb-cloud/order-fulfillment-temporal)** | Temporal workflows, retries, failure handling, compensation, state persistence, authenticated APIs, testing, and crash recovery |
+| **[Distributed Systems Performance Lab](https://github.com/gabbyb-cloud/distributed-systems-performance-lab)** | PostgreSQL connection pooling, Redis caching and fallback, latency and throughput testing, concurrency analysis, metrics, and dependency-failure behavior |
 
 ---
 
-## What I Practice
+## What I Work With
 
-**Reliability & Operations**  
-`Linux` · `Kubernetes` · `Helm` · `Prometheus` · `Grafana` · `SLOs` · `Alerting` · `Runbooks` · `Incident Analysis`
+**Cloud & Infrastructure**  
+`Linux` · `Docker` · `Kubernetes` · `Helm` · `Terraform` · `AWS`
 
-**Backend & Distributed Systems**  
-`Python` · `TypeScript` · `FastAPI` · `Temporal` · `PostgreSQL` · `Redis` · `APIs` · `Failure Recovery`
+**Backend & Systems**  
+`Python` · `TypeScript` · `FastAPI` · `Temporal` · `PostgreSQL` · `Redis` · `APIs`
 
-**Infrastructure & Delivery**  
-`Docker` · `Terraform` · `AWS` · `Git` · `GitHub Actions` · `CI/CD` · `Infrastructure as Code`
+**Operations & Reliability**  
+`Prometheus` · `Grafana` · `SLOs` · `Alerting` · `Runbooks` · `Incident Analysis`
+
+**Delivery & Automation**  
+`Git` · `GitHub Actions` · `CI/CD` · `Infrastructure as Code` · `Bash`
 
 ---
 
-## Reliability Work in the Repositories
+## How I Work
 
-Across these projects I practice more than deploying applications. I deliberately create and investigate failure conditions so I can understand how systems behave when something goes wrong.
+I learn best by building, testing, and troubleshooting real systems.
 
-Examples include:
+Across these repositories, I’ve worked on things like:
 
-- Injecting HTTP 500 failures and observing Prometheus alerts transition through their lifecycle
+- Creating controlled failure conditions and watching how monitoring and alerts respond
 - Recovering Linux services and verifying process, port, and HTTP behavior afterward
-- Testing durable workflow recovery across worker restarts
+- Testing workflow recovery after worker restarts
 - Measuring latency, throughput, p95/p99 behavior, connection pooling, and cache fallback
-- Writing operational runbooks and blameless incident documentation
-- Automating validation through GitHub Actions
+- Writing runbooks and incident documentation
+- Automating validation with GitHub Actions
 
-The goal is to build the habit of treating **detection, diagnosis, recovery, and verification** as part of engineering—not as afterthoughts.
+The goal is to understand not just how to build software, but how to operate it when things go wrong.
 
 ---
 
-## Independent Product Engineering
+## Current Focus
 
-Alongside my reliability and infrastructure work, I independently build a **private B2B software product**.
+I’m continuing to build hands-on experience across cloud infrastructure, backend systems, platform engineering, automation, security, and reliability.
 
-That work includes backend architecture, PostgreSQL, authentication and authorization, multi-tenant systems, workflow design, testing, security, and reliability engineering.
-
-Product and implementation details remain private during development.
+Some of my work is private, so this profile only includes projects I’m comfortable sharing publicly.
 
 ---
 
@@ -100,6 +101,6 @@ Product and implementation details remain private during development.
 
 <br><br>
 
-**Reliable systems. Clear operations. Measurable behavior.**
+**Building systems that are easier to understand, operate, and improve.**
 
 </div>
