@@ -2,7 +2,7 @@
 
 # Gabby B.
 
-### Software Engineer · Cloud · Infrastructure · Backend · Automation
+### Software Engineer · Backend Systems · Cloud Infrastructure · Reliability
 
 I like building practical systems, understanding how they behave when something goes wrong, and making them easier to run, troubleshoot, and improve.
 
@@ -27,11 +27,11 @@ I like building practical systems, understanding how they behave when something 
 
 ## About Me
 
-I’m a software engineer with a strong interest in cloud infrastructure, backend systems, platform engineering, automation, security, and reliability.
+I’m a software engineer focused on backend systems, cloud infrastructure, platform engineering, automation, security, and reliability.
 
-A lot of my work focuses on what happens after software is built: deploying services, observing system behavior, troubleshooting failures, recovering safely, and checking that things are actually healthy again afterward.
+I enjoy building software and understanding how it behaves in real operating environments — from backend design and infrastructure automation to observability, troubleshooting, failure recovery, and performance.
 
-I enjoy the parts of technology where software, infrastructure, and operations overlap.
+I’m especially interested in the areas where software, infrastructure, and operations overlap.
 
 ```text
 Observe → Diagnose → Recover → Verify → Automate
@@ -85,7 +85,9 @@ The goal is to understand not just how to build software, but how to operate it 
 
 ## Current Focus
 
-I’m continuing to build hands-on experience across cloud infrastructure, backend systems, platform engineering, automation, security, and reliability.
+I’m continuing to build hands-on experience across backend systems, cloud infrastructure, platform engineering, automation, security, and reliability.
+
+My current work includes Kubernetes operations, infrastructure as code, Linux troubleshooting, observability, distributed systems, backend services, and reliability-focused system design.
 
 Some of my work is private, so this profile only includes projects I’m comfortable sharing publicly.
 
