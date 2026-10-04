@@ -1,10 +1,10 @@
 <div align="center">
 
-# Gabby B.
+# Software Engineer
 
-### Software Engineer · Backend Systems · Cloud Infrastructure · Reliability
+### Backend Systems · Cloud Infrastructure · Reliability
 
-I like building practical systems, understanding how they behave when something goes wrong, and making them easier to run, troubleshoot, and improve.
+I build small systems, break them on purpose, and measure what happens.
 
 <br>
 
@@ -25,9 +25,9 @@ I like building practical systems, understanding how they behave when something 
 
 ---
 
-## About Me
+## Overview
 
-I’m a software engineer focused on backend systems, cloud infrastructure, platform engineering, automation, security, and reliability.
+I’m focused on backend systems, cloud infrastructure, platform engineering, automation, security, and reliability.
 
 I enjoy building software and understanding how it behaves in real operating environments — from backend design and infrastructure automation to observability, troubleshooting, failure recovery, and performance.
 
@@ -39,7 +39,7 @@ Observe → Diagnose → Recover → Verify → Automate
 
 ---
 
-## Featured Projects
+## Selected Work
 
 | Project | What I worked on |
 |:--|:--|
@@ -50,7 +50,7 @@ Observe → Diagnose → Recover → Verify → Automate
 
 ---
 
-## What I Work With
+## Technical Focus
 
 **Cloud & Infrastructure**  
 `Linux` · `Docker` · `Kubernetes` · `Helm` · `Terraform` · `AWS`
@@ -66,7 +66,7 @@ Observe → Diagnose → Recover → Verify → Automate
 
 ---
 
-## How I Work
+## Engineering Approach
 
 I learn best by building, testing, and troubleshooting real systems.
 
